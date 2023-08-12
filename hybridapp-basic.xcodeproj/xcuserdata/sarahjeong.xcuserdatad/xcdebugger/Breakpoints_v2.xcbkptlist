@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7BBDB1CE-6B96-43DA-8B85-5A503583A5F3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AD709BD-329F-4C67-AF98-7CCBE9C3EB51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hybridapp-basic/View/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "webviewInit()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2AD709BD-329F-4C67-AF98-7CCBE9C3EB51 - 373072b59f4cdbbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hybridapp_basic.ViewController.webviewInit() -&gt; ()"
+                  moduleName = "hybridapp-basic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarahjeong/workspace/sideProject/hybridapp-basic/hybridapp-basic/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "936">
+               </Location>
+               <Location
+                  uuid = "2AD709BD-329F-4C67-AF98-7CCBE9C3EB51 - 373072b59f4cdbf8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hybridapp_basic.ViewController.webviewInit() -&gt; ()"
+                  moduleName = "hybridapp-basic"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarahjeong/workspace/sideProject/hybridapp-basic/hybridapp-basic/View/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "936">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
